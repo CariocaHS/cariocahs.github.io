@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Carioca HackerSpace</title><link href="cariocahackerspace.com.br/%08%08/" rel="alternate"></link><link href="cariocahackerspace.com.br/%08%08/feeds/all.atom.xml" rel="self"></link><id>cariocahackerspace.com.br//</id><updated>2010-10-04T18:40:00-03:00</updated><entry><title>Inicio do site</title><link href="cariocahackerspace.com.br/%08%08/my-super-post.html" rel="alternate"></link><published>2010-10-03T10:20:00-03:00</published><updated>2010-10-04T18:40:00-03:00</updated><author><name>Carioca HackerSpace</name></author><id>tag:None,2010-10-03:cariocahackerspace.com.br//my-super-post.html</id><summary type="html">&lt;p class="first last"&gt;Short version for index and feeds&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;bla bla bla bla ba&lt;/p&gt;
+</content><category term="thats"></category><category term="awesome"></category></entry></feed>
