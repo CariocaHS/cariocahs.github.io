@@ -19,7 +19,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME='bricks'
+THEME='themes/bricks'
 #THEME='pelican-bootstrap3'
 #BOOTSTRAP_THEME = 'flatly'
 
@@ -67,4 +67,4 @@ GITHUB_URL = "https://github.com/CariocaHS"
 GITHUB_USER = 'kura'
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
